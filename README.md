@@ -4,7 +4,7 @@
 
 🚀 AI Analyst • Tech Specialist • Web Developer  
 🧠 Focused on AI, product thinking, and building systems that feel effortless  
-🎯 Inspired by Steve Jobs–level clarity and Tim Cook–level execution
+🎯 Stay Hungry,Stay Foolish
 
 ---
 
