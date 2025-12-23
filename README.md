@@ -98,7 +98,7 @@ I’m open to collaborating on:
 ---
 
 ### 📫 Connect With Me
-- GitHub: **You’re already here**
+
 - LinkedIn: https://www.linkedin.com/in/anugrah-singh-8b7509359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ---
