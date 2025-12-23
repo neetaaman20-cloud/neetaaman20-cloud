@@ -45,7 +45,7 @@ I believe great technology shouldn’t explain itself — it should *just work*.
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=darkpurple)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=darkblue)
 
-**AI & Data**
+**Ai & Data**
 - Machine Learning  
 - AI Model Analysis  
 - Prompt Engineering  
