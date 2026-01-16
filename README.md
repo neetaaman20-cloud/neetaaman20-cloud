@@ -45,9 +45,8 @@ I believe great technology shouldn’t explain itself — it should *just work*.
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=darkpurple)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=darkblue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=lightblue)
-![iOS Developer](https://img.shields.io/badge/iOS%20Developer-007AFF?style=for-the-badge&logo=apple&logoColor=white)
-![Android Developer](https://img.shields.io/badge/Android%20Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
+![Android Developer](https://img.shields.io/badge/Android%20Developer-0F3D2E?style=for-the-badge&logo=android&logoColor=white)
+![iOS Developer](https://img.shields.io/badge/iOS%20Developer-0A2540?style=for-the-badge&logo=apple&logoColor=white)
 
 **AI & Data**
 - Machine Learning  
