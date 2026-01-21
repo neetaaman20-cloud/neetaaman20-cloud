@@ -105,7 +105,11 @@ I’m open to collaborating on:
 - LinkedIn: https://www.linkedin.com/in/anugrah-singh-8b7509359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ---
+### 💡 Quote
+> "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. 
+And the only way to do great work is to love what you do."
+>
+> — **Steve Jobs**, *Apple Founder*
 
-### ⚡ Fun Fact
-I judge technology by one rule:  
-**If it needs a long explanation, it’s not finished yet.**
+
+
