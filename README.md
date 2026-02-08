@@ -50,26 +50,27 @@ I believe great technology shouldn’t explain itself — it should *just work*.
 ![iOS Developer](https://img.shields.io/badge/iOS%20Developer-0A2540?style=for-the-badge&logo=apple&logoColor=white)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neetamaan20-cloud&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neetaaman20-cloud&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neetamaan20-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neetaaman20-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-### 🚀 Top Projects
-* **LuminaStream** – Local-first RAG engine (FastAPI & ChromaDB)
-* **NeuralCanvas** – ML digit pre-processor (HTML5 Canvas)
-* **Mac-Optimized Transformer** – PyTorch attention for Apple Silicon
-* **FitTrack AI** – Activity classification (Swift & CoreML)
-* **OptiSupply AI** – Inventory demand forecasting (Scikit-Learn)
-* **PathQuest** – Dijkstra’s Algorithm visualizer (JavaScript)
-* **StudyBridge** – YCMOU study material scraper (React & FastAPI)
-* **Pulse** – Real-time crypto aggregator (Node.js & WebSockets)
-* **NeuroSign** – Sign language translator (TensorFlow)
-* **FundFlow AI** – Mutual fund portfolio optimizer (Python)
+### 🚀 Top Contributed Repositories
+* **LuminaStream** – Local-first RAG engine using FastAPI and ChromaDB.
+* **NeuralCanvas** – HTML5 Canvas application for pre-processing handwritten digits.
+* **Mac-Optimized Transformer Attention** – PyTorch project optimized for Apple Silicon hardware.
+* **FitTrack AI** – iOS application in Swift to classify physical activity.
+* **OptiSupply AI** – Predictive inventory demand forecaster using Python and Scikit-Learn.
+* **PathQuest** – Web-based visualizer for Dijkstra's Algorithm.
+* **StudyBridge** – Full-stack web scraping application for YCMOU study materials.
+* **Pulse** – Real-time cryptocurrency data aggregator using Node.js and WebSockets.
+* **NeuroSign** – Sign language translator using Python and TensorFlow.
+* **FundFlow AI** – Mutual fund portfolio optimizer using React and FastAPI.
+
 
 **AI & Data**
 - Machine Learning  
