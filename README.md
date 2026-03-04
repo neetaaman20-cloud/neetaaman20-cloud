@@ -1,4 +1,6 @@
 ## Hi there 👋 I’m Anugrah Singh
+## I am A technical Specialist at Apple Bkc
+## Also an Ex-Google Product Designer 
 
 > Simplifying technology so humans can think bigger.
 
